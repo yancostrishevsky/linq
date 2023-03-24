@@ -1,0 +1,15 @@
+C:\Users\janek\Documents\csh\bin\Debug\net7.0\csh.exe
+C:\Users\janek\Documents\csh\bin\Debug\net7.0\csh.deps.json
+C:\Users\janek\Documents\csh\bin\Debug\net7.0\csh.runtimeconfig.json
+C:\Users\janek\Documents\csh\bin\Debug\net7.0\csh.dll
+C:\Users\janek\Documents\csh\bin\Debug\net7.0\csh.pdb
+C:\Users\janek\Documents\csh\obj\Debug\net7.0\csh.csproj.AssemblyReference.cache
+C:\Users\janek\Documents\csh\obj\Debug\net7.0\csh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janek\Documents\csh\obj\Debug\net7.0\csh.AssemblyInfoInputs.cache
+C:\Users\janek\Documents\csh\obj\Debug\net7.0\csh.AssemblyInfo.cs
+C:\Users\janek\Documents\csh\obj\Debug\net7.0\csh.csproj.CoreCompileInputs.cache
+C:\Users\janek\Documents\csh\obj\Debug\net7.0\csh.dll
+C:\Users\janek\Documents\csh\obj\Debug\net7.0\refint\csh.dll
+C:\Users\janek\Documents\csh\obj\Debug\net7.0\csh.pdb
+C:\Users\janek\Documents\csh\obj\Debug\net7.0\csh.genruntimeconfig.cache
+C:\Users\janek\Documents\csh\obj\Debug\net7.0\ref\csh.dll
